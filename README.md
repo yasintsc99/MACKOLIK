@@ -35,11 +35,3 @@ Bu proje, Mackolik.com üzerinden 2024-2025 sezonu ve diğer sezonlar için Tür
 ## 📄 Lisans
 
 Bu proje eğitim ve analiz amaçlıdır.
-
----
-
-`````
-
-````txt
-# requirements.txt
-`````
